@@ -19,6 +19,5 @@ Step 4 – Run all the cells in the notebook, the notebook gives the validation 
 # GUI Execution
 Step 1 – Download the predict.ui and predict.py files and run the predict.py file, to run this program the package PyQt5 is needed.
 Step 2 – The upload button in the GUI enables to select only the .jpg and .png files. And the prediction percentage for every class is obtained.
-![image](https://user-images.githubusercontent.com/99991162/166094972-d68c4793-7cb3-4ef9-a18b-8110d93a9c5e.png)
 
 
