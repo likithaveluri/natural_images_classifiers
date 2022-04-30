@@ -14,6 +14,7 @@ Step 1 – Download the Dataset from Kaggle: https://www.kaggle.com/prasunroy/na
 Step 2 – Download the DM_Project_Final_Likitha.ipynb file, To run this file the tensorflow-2.8.0, opencv, PIL  packages are needed.
 
 Step 3 – Extract the downloaded dataset into the folder named “natural_images” and move the DM_Project_Final_Likitha.ipynb file into the folder at the level of the same folder.
+
 Step 4 – Run all the cells in the notebook, the notebook gives the validation and train accuracy for every epoch.
 
 # GUI Execution
